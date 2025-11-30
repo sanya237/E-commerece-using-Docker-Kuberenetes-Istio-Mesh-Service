@@ -18,9 +18,7 @@ It showcases **scalability**, **fault tolerance**, **observability**, and **real
 * [Kubernetes Deployment](#-kubernetes-deployment)
 * [Istio Service Mesh](#-istio-service-mesh)
 * [Monitoring & Observability](#-monitoring--observability)
-* [Screenshots](#-screenshots)
 * [Conclusion](#-conclusion)
-* [Team](#-team)
 
 ---
 
